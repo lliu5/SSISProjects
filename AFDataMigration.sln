@@ -1,0 +1,19 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "AFDataMigration", "AFDataMigration\AFDataMigration.dtproj", "{2685BDE7-7A9B-4A4B-9DCE-3EE74E3118FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2685BDE7-7A9B-4A4B-9DCE-3EE74E3118FB}.Development|Default.ActiveCfg = Development
+		{2685BDE7-7A9B-4A4B-9DCE-3EE74E3118FB}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
